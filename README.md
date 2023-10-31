@@ -2,6 +2,10 @@
 my first project
 by Claire
 
+**DATASET LINK**
+https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot/code
+
+
 **LET ME EXPLAIN HOW TO RUN THE CODE**
 Certainly! To run the provided chatbot code, you need to follow these steps:
 
